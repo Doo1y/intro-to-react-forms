@@ -1,0 +1,15 @@
+.error {
+  color: red;
+  font-style: italic;
+  font-weight: 600;
+  padding-left: 20px;
+  position: relative;
+  display: flex;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
